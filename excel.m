@@ -16,3 +16,5 @@ if q>1 && w>1
 else 
     distance = -1;
 end
+
+distance = get_distance('Seattle, WA','Miami, FL')
