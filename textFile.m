@@ -1,3 +1,5 @@
+%simple.txt, frei...shey..txt
+
 function charnum = char_counter(fname,character)
 fid=fopen(fname);
 if fid< 0
